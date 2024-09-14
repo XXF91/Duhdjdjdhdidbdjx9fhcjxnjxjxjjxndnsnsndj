@@ -31,7 +31,7 @@ async def start(bot: Client, update: Message):
                         "🔪🖤 ᴰᵉᵛˡᵒᵖᵉʳ ", url="https://t.me/X_XF8"
                     ),
                     InlineKeyboardButton(
-                        "𝙼𝚢 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/MOVIES0X1"),
+                        "𝙼𝚢 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/ANUBIS0X1"),
                 ],
                 [InlineKeyboardButton("🏴🤍 𝙵𝙾𝙻𝙻𝙾𝚆 𝙼𝙴 𝙾𝙽 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺", url="https://www.facebook.com/x.hetlr.7")],
             ]
